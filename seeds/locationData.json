@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "location_name": "Adelaide Central Market",
+    "description": "Experience a youthful, energetic thrive in the hub of tasty gourmet and rich culture in the awe-striking Adelaide Central Market, which has been stealing hearts for nearly 145 years. Established in 1869, this beautiful market accommodates more than 80 traders making it one of the largest markets in the country and one of the best places to visit in Adelaide.",
+    "user_id": "2"
+  },
+  {
+    "id": 2,
+    "location_name": "Rundle Mall",
+    "description": "If you are looking for some shopping in Adelaide, there is no better place than Rundle Mall. It is the first Australian pedestrian street mall. It houses several leading retail stores in South Australia. Whether it is fashion stores, electronics, jewellery, supermarket, departmental store, or food, the mall has it all, and it is one of the best places to visit in Adelaide.",
+    "user_id": "1"
+  },
+  {
+    "id": 3,
+    "location_name": "2KW Bar and Restaurant",
+    "description": "Eight floors up on King William Street, the Palmer Hospitality Group has built a rooftop gastrodome with five indoor and outdoor entertaining zones with breathtaking views, and a menu to match. It's the kind of place where time slows down, burdens are lifted and focus shifts to what's really important - great food and serious booze.",
+    "user_id": "3"
+  }
+]

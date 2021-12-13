@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "Everything for a sumptuous feast under the one roof.",
+      "content": "Absolutely the best and freshest fruit, seafood, meat, many cheeses, bread, coffee to eat in or take home + flowers etc.,",
+      "user_id": 2,
+      "location_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Best Tour Ever!",
+      "content": "What an amazing tour. Learnt so much. Tried many of the sample treats. Jenny was very informative. Would recommend everyone to do a tour",
+      "user_id": 2,
+      "location_id": 1
+    }
+  ]
